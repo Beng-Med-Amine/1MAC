@@ -8,9 +8,9 @@
 <h4>العضو :&nbsp;<a href="https://macdiscussions.udacity.com/u/Muhamed_Amine">Muhamed Amine</a></h4>
 <h3 style="text-align: right;"><br />&nbsp;قائمة التطبيقات :</h3>
 <ol>
-<li style="text-align: right;">تطبيق Happy Birthday Card</li>
-<li style="text-align: right;">تطبيق Just Java</li>
-<li style="text-align: right;">تطبيق&nbsp;Splash</li>
-<li style="text-align: right;">تطبيق الكرة السحرية&nbsp;Magic ball</li>
+<li style="text-align: right;">تطبيق <a href="https://github.com/Beng-Med-Amine/1MAC/tree/master/HappyBirthday">Happy Birthday Card</a></li>
+<li style="text-align: right;">تطبيق <a href="https://github.com/Beng-Med-Amine/1MAC/tree/master/JustJava">Just Java</a></li>
+<li style="text-align: right;">تطبيق&nbsp;<a href="https://github.com/Beng-Med-Amine/1MAC/tree/master/Splash">Splash</a></li>
+<li style="text-align: right;">تطبيق الكرة السحرية&nbsp;<a href="https://github.com/Beng-Med-Amine/1MAC/tree/master/Magicball">Magic ball</a></li>
 </ol>
 </div>
